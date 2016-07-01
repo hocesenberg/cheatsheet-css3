@@ -1,10 +1,25 @@
 h1{
   text-align: center;
+  font-family: osvald;
+  color: blue;
+  font-weight: bold;
+  background-color: grey;
 }
-thead{
-  text-align: center;
+th{
+  background-color: grey;
 }
-table{
-background-color: skyblue;
-font-family: arial;
+th,tr,td{
+color: blue;
+font-family: osvald;
+font-weight: bold;
+}
+
+table {
+  color: blue;
+  background-color: grey;
+
+}
+img{
+  height:80px;
+  width: 80px;
 }
