@@ -1,25 +1,40 @@
 h1{
   text-align: center;
-  font-family: osvald;
   color: blue;
   font-weight: bold;
-  background-color: grey;
-}
-th{
-  background-color: grey;
-}
-th,tr,td{
-color: blue;
-font-family: osvald;
-font-weight: bold;
-}
-
-table {
-  color: blue;
-  background-color: grey;
-
+  background-color: white;
+  border-radius: 50px;
 }
 img{
-  height:80px;
-  width: 80px;
+height: 80px;
+width: 80px;
+}
+
+.font{
+color: #fff;
+font-weight: bold;
+background-color: firebrick;
+border-color: black;
+display:inline-flex;
+}
+
+.background {
+  color: blue;
+  background-color: grey;
+  color: blue;
+  font-weight: bold;
+  margin :auto;
+  display: inline-flex;
+}
+.border{
+  font-weight: bold;
+  margin: auto;
+  background-color:#4682B4;
+  color: #DEB887;
+  margin: auto;
+  display: inline-flex;
+}
+body{
+  background-color: coral;
+  font-family: fantasy;
 }
